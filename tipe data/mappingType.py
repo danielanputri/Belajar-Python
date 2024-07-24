@@ -9,7 +9,7 @@ a[1] = "c"  # berubah jadi c
 
 # method
 dataKaryawan.get("nama")  # manggil nama
-dataKaryawan.keys()  # key dari data karyawan
+dataKaryawan.keys()  # key dari data karyawan dict[key] dict.get(key)
 dataKaryawan.values()  # values dari data karyawan berupa list
 
 # built in function
